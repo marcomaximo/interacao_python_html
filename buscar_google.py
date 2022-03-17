@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 #Executa ChromeDriver
-driver = webdriver.Chrome(executable_path=r"C:\Users\55169\Desktop\chromedriver.exe")
+driver = webdriver.Chrome(executable_path=r"seu diretorio")
 
 
 #Abrir site
